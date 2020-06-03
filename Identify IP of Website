@@ -1,0 +1,10 @@
+To make an attack or to track the  performance of a public web application we need to have the IP address of the website.
+We can identify it by using the ping command.
+This command is valid in Windows y IOS.
+Valid to identify  IPv4 and IPv6
+
+ping <the website address here>
+
+/*Example*/
+
+ping www.crazypuggies.com
