@@ -1,0 +1,8 @@
+Nmap is a software application to detect the open ports of a network.
+Attacking the port is one of the first steps to get in to a forbidden network.
+Scanning the ports of a public / corporative network is normally the precursor to hack a network, reason why We should not 
+perform this activity with no permission at the company we work or any other entitity.
+
+#NMap Example
+
+Please have a look at this link to see what important data is displayed by Nmap after performing a network mapping.
